@@ -1,0 +1,4 @@
+/MachineLearningCSV.zip filter=lfs diff=lfs merge=lfs -text
+/MachineLearningCSV/MachineLearningCVE/Monday-WorkingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
+/MachineLearningCSV/MachineLearningCVE/Tuesday-WorkingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
+/MachineLearningCSV/MachineLearningCVE/Wednesday-workingHours.pcap_ISCX.csv filter=lfs diff=lfs merge=lfs -text
